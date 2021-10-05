@@ -10,4 +10,4 @@ This is an animation gradient with hover affects for the buttons.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+
